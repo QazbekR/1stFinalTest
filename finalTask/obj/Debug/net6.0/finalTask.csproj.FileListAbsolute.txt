@@ -1,0 +1,15 @@
+C:\Users\admin\Downloads\Desktop\final!st\finalTask\bin\Debug\net6.0\finalTask.exe
+C:\Users\admin\Downloads\Desktop\final!st\finalTask\bin\Debug\net6.0\finalTask.deps.json
+C:\Users\admin\Downloads\Desktop\final!st\finalTask\bin\Debug\net6.0\finalTask.runtimeconfig.json
+C:\Users\admin\Downloads\Desktop\final!st\finalTask\bin\Debug\net6.0\finalTask.dll
+C:\Users\admin\Downloads\Desktop\final!st\finalTask\bin\Debug\net6.0\finalTask.pdb
+C:\Users\admin\Downloads\Desktop\final!st\finalTask\obj\Debug\net6.0\finalTask.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\Desktop\final!st\finalTask\obj\Debug\net6.0\finalTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\Desktop\final!st\finalTask\obj\Debug\net6.0\finalTask.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\Desktop\final!st\finalTask\obj\Debug\net6.0\finalTask.AssemblyInfo.cs
+C:\Users\admin\Downloads\Desktop\final!st\finalTask\obj\Debug\net6.0\finalTask.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Desktop\final!st\finalTask\obj\Debug\net6.0\finalTask.dll
+C:\Users\admin\Downloads\Desktop\final!st\finalTask\obj\Debug\net6.0\refint\finalTask.dll
+C:\Users\admin\Downloads\Desktop\final!st\finalTask\obj\Debug\net6.0\finalTask.pdb
+C:\Users\admin\Downloads\Desktop\final!st\finalTask\obj\Debug\net6.0\finalTask.genruntimeconfig.cache
+C:\Users\admin\Downloads\Desktop\final!st\finalTask\obj\Debug\net6.0\ref\finalTask.dll
